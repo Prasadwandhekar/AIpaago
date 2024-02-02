@@ -1,0 +1,22 @@
+.container{
+    display: flex;
+    width: 11/12;
+    max-width: 1160px;
+    padding: 12px;
+    margin: auto;
+    gap: 12px;
+
+
+}
+
+.images{
+    margin-top: -70px;
+    margin-left: 150px;
+    width:300px ;
+    height: 300px;
+    border-radius: 50%;
+}
+
+.or{
+    margin-left: 270px;
+}

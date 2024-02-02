@@ -1,0 +1,45 @@
+/* Signupform.css */
+.signup-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding-right: 50px;
+  }
+  
+  .user-type-buttons {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
+  
+  .signup-form label {
+    display: block;
+    margin-bottom: 15px;
+  }
+  
+  .name-inputs {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  .password-inputs {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  span {
+    position: absolute;
+  }  
